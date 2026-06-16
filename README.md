@@ -1,4 +1,6 @@
 # coliiisions
+
+![coliiisions](/img/collisiiions-take-1.webp)
 an iii script for monome grid 128 version. based on the famous bouncing ball p5js.
 
 ## How-to
