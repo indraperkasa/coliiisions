@@ -1,5 +1,5 @@
 -- bounciiing balls
--- colliiisions
+-- collisiiions
 -- v.0.1
 -- =========================
 -- TO DO

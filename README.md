@@ -1,4 +1,4 @@
-# colliiisions
+# collisiiions
 
 <!-- [![coliiisions](/img/coliiimation.webp)](https://www.youtube.com/watch?v=3B8TEzSuYHk) -->
 
