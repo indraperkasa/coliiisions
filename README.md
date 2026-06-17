@@ -1,6 +1,6 @@
 # coliiisions
 
-[![coliiisions](/img/collisiiions-take-1.webp)](https://www.youtube.com/watch?v=3B8TEzSuYHk)
+[![coliiisions](/img/coliiimation.webp)](https://www.youtube.com/watch?v=3B8TEzSuYHk)
 an iii script for monome grid 128 version. based on the famous bouncing ball p5js.
 
 ## How-to
