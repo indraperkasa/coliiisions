@@ -1,5 +1,6 @@
 -- bounciiing balls
--- colliiision
+-- colliiisions
+-- v.0.1
 -- =========================
 -- TO DO
 -- - midi clock in

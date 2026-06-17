@@ -1,6 +1,12 @@
-# coliiisions
+# colliiisions
 
-[![coliiisions](/img/coliiimation.webp)](https://www.youtube.com/watch?v=3B8TEzSuYHk)
+<!-- [![coliiisions](/img/coliiimation.webp)](https://www.youtube.com/watch?v=3B8TEzSuYHk) -->
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3B8TEzSuYHk">
+    <img src="/img/coliiimation.webp" width="600">
+  </a>
+</p>
 
 ---
 
