@@ -10,7 +10,7 @@
 
 ---
 
-an iii script for monome grid 128 version. based on the famous bouncing ball p5js.
+an iii script for monome grid 128 version. based on the famous bouncing ball p5js. click the animated image above for video demo or [here](https://www.youtube.com/watch?v=3B8TEzSuYHk).
 
 ## How-to
 to start, press any button inside the edges of the grid.
